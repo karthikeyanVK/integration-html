@@ -26,8 +26,14 @@ Navigate to the project cloned folder the Run `npm install -g grunt-cli bower yo
 
 ## Build & development
 
-Run	`grunt` for building and	 `grunt serve` for preview
+ `grunt serve` for preview
 
+## Deployable files
+
+
+Run	`grunt` for building deployable minified files which will create a dist folder and 
+you can copy the file to website folder
+	
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
